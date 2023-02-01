@@ -30,7 +30,7 @@
     "build": "yarn build_modern && yarn build_legacy"
   },
   "dependencies": {
-    "bootstrap": "^4.5.2",
+    "bootstrap": "^5.2.3",
     "browserslist-check-bundle": "barthy-koeln/browserslist-check-bundle",
     "glightbox": "^3.1.0"
   }
